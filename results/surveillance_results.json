@@ -1,0 +1,93 @@
+{
+  "round_history": [
+    {
+      "round": 1,
+      "accuracy": 0.3958333432674408,
+      "loss": 1.3201583623886108,
+      "comm_bytes": 19380,
+      "rejected": 2,
+      "elapsed": 0.40625
+    },
+    {
+      "round": 2,
+      "accuracy": 0.4416666626930237,
+      "loss": 1.2436429262161255,
+      "comm_bytes": 19380,
+      "rejected": 0,
+      "elapsed": 0.36403608322143555
+    },
+    {
+      "round": 3,
+      "accuracy": 0.668749988079071,
+      "loss": 0.9312177896499634,
+      "comm_bytes": 19380,
+      "rejected": 1,
+      "elapsed": 0.32344508171081543
+    },
+    {
+      "round": 4,
+      "accuracy": 0.7250000238418579,
+      "loss": 0.7137024402618408,
+      "comm_bytes": 19380,
+      "rejected": 1,
+      "elapsed": 0.2968254089355469
+    },
+    {
+      "round": 5,
+      "accuracy": 0.7333333492279053,
+      "loss": 0.6483333110809326,
+      "comm_bytes": 19380,
+      "rejected": 2,
+      "elapsed": 0.3527791500091553
+    },
+    {
+      "round": 6,
+      "accuracy": 0.7541666626930237,
+      "loss": 0.5202996730804443,
+      "comm_bytes": 19380,
+      "rejected": 1,
+      "elapsed": 0.3778696060180664
+    },
+    {
+      "round": 7,
+      "accuracy": 0.7541666626930237,
+      "loss": 0.49608030915260315,
+      "comm_bytes": 19380,
+      "rejected": 2,
+      "elapsed": 0.39087438583374023
+    },
+    {
+      "round": 8,
+      "accuracy": 0.7541666626930237,
+      "loss": 0.4678146243095398,
+      "comm_bytes": 19380,
+      "rejected": 2,
+      "elapsed": 0.288405179977417
+    },
+    {
+      "round": 9,
+      "accuracy": 0.7666666507720947,
+      "loss": 0.43889567255973816,
+      "comm_bytes": 19380,
+      "rejected": 2,
+      "elapsed": 0.3860921859741211
+    },
+    {
+      "round": 10,
+      "accuracy": 0.793749988079071,
+      "loss": 0.41455405950546265,
+      "comm_bytes": 19380,
+      "rejected": 2,
+      "elapsed": 0.4109044075012207
+    }
+  ],
+  "best_accuracy": 0.793749988079071,
+  "final_accuracy": 0.793749988079071,
+  "total_comm_bytes": 193800,
+  "total_rejections": 15,
+  "final_eval": {
+    "accuracy": 0.7995833333333333,
+    "loss": 0.4044092297554016
+  },
+  "app_name": "surveillance"
+}

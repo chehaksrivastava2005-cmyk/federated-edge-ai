@@ -1,0 +1,93 @@
+{
+  "round_history": [
+    {
+      "round": 1,
+      "accuracy": 0.28958332538604736,
+      "loss": 0.08020424842834473,
+      "comm_bytes": 18400,
+      "rejected": 0,
+      "elapsed": 0.22522377967834473
+    },
+    {
+      "round": 2,
+      "accuracy": 0.3083333373069763,
+      "loss": 0.07422585785388947,
+      "comm_bytes": 18400,
+      "rejected": 0,
+      "elapsed": 0.2822146415710449
+    },
+    {
+      "round": 3,
+      "accuracy": 0.3375000059604645,
+      "loss": 0.06783236563205719,
+      "comm_bytes": 18400,
+      "rejected": 0,
+      "elapsed": 0.3051772117614746
+    },
+    {
+      "round": 4,
+      "accuracy": 0.3645833432674408,
+      "loss": 0.061425577849149704,
+      "comm_bytes": 18400,
+      "rejected": 0,
+      "elapsed": 0.31116652488708496
+    },
+    {
+      "round": 5,
+      "accuracy": 0.3895833194255829,
+      "loss": 0.05553223937749863,
+      "comm_bytes": 18400,
+      "rejected": 0,
+      "elapsed": 0.29869842529296875
+    },
+    {
+      "round": 6,
+      "accuracy": 0.4124999940395355,
+      "loss": 0.05047300085425377,
+      "comm_bytes": 18400,
+      "rejected": 0,
+      "elapsed": 0.29071474075317383
+    },
+    {
+      "round": 7,
+      "accuracy": 0.4416666626930237,
+      "loss": 0.046293895691633224,
+      "comm_bytes": 18400,
+      "rejected": 0,
+      "elapsed": 0.3000068664550781
+    },
+    {
+      "round": 8,
+      "accuracy": 0.46041667461395264,
+      "loss": 0.04906440153717995,
+      "comm_bytes": 18400,
+      "rejected": 1,
+      "elapsed": 0.32279253005981445
+    },
+    {
+      "round": 9,
+      "accuracy": 0.46666666865348816,
+      "loss": 0.05297152325510979,
+      "comm_bytes": 18400,
+      "rejected": 2,
+      "elapsed": 0.30730652809143066
+    },
+    {
+      "round": 10,
+      "accuracy": 0.5020833611488342,
+      "loss": 0.04496891424059868,
+      "comm_bytes": 18400,
+      "rejected": 0,
+      "elapsed": 0.3021087646484375
+    }
+  ],
+  "best_accuracy": 0.5020833611488342,
+  "final_accuracy": 0.5020833611488342,
+  "total_comm_bytes": 184000,
+  "total_rejections": 3,
+  "final_eval": {
+    "accuracy": 0.5083333194255829,
+    "loss": 0.045010052621364594
+  },
+  "app_name": "industrial"
+}
